@@ -1,4 +1,4 @@
-##Реализация библиотек
+## Реализация библиотек
 my_math - math.h
 my_string - string.h
 my_cat_and_grep - 
