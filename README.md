@@ -1,8 +1,8 @@
 # Реализация библиотек
 ## my_math - 
-  math.h
+  lib math
 ## my_string - 
-  string.h
+  lib string
 ## my_cat_and_grep - 
   cat Использование
   `cat [OPTION] [FILE]...` 
